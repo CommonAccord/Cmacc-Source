@@ -1,6 +1,8 @@
 Name.Given=Acme
 
-EntityType=SARL
+Name.Inc=SARL
+
+Personality.type=French SARL
 
 Adr.Type=registered
 
@@ -8,35 +10,25 @@ Cap.All.#=100.000 Euros
 
 Cap.All.Spelled.FR=Cent Mille Euros
 
-Cap.Total.Amount.Spelled.FR=
+Register.Account.#={RCS.#}
 
-Adr.ST=
+Register.Adr.City=Paris
 
-Adr.3=
+Register.Adr.State=Ile de France
 
-Register.Adr.City=
+Register.Adr.Nation=France
 
-Register.#=
+Adr.Street.#=101
 
-Signer.Title=
-
-Corp.Cap.1.Value.Spelled.FR=
-
-Cap.1.Count.#=
-
-Corp.Cap.Total.Count.Spelled.FR=
-
-Corp.Cap.1.Price.#=
-
-Corp.Cap.1.Price.Spelled.FR=
-
-Corp.Purpose=
-
-Adr.1=101 rue Partout
+Adr.Street.Name=rue Partout
 
 Adr.Zip=75001
 
 Adr.City=Paris
+
+Adr.State=Ile de France
+
+Adr.ST=IdF
 
 Adr.Nation=France
  
@@ -51,5 +43,9 @@ Phone=+33.1.23.45.67.89
 Fax=+33.1.23.45.67.90
 
 Dirigeant1.Titre=Gérant
+
+Signer.Title=Gérant
+
+Signer.=[U/id/abigail_altima.md]
 
 =[F/00/ID/Entity/0.md]
