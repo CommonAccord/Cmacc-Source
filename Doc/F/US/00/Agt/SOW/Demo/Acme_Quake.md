@@ -1,3 +1,5 @@
+/Model.Root={Manage.Role.Sec}
+
 Doc.GUID=125923579-AcQuMSA-SOW1.1
 
 Doc.Version=Draft 1
