@@ -32,9 +32,9 @@ Objective.Constraint.Low.sec=The {_Project} shall be conducted rapidly and itera
 
 Scope.Business.In.1.sec=Text "objects" for {_SOWs} and an {_MSA} in English language (US),
 
-Scope.Business.In.2.sec=Friendly presentation using layout and graphical elements, based on text objects and use of Cascading Style Sheets (CSS),
+Scope.Business.In.2.sec=Friendly presentation using layout and graphical elements, based on text objects, images and Cascading Style Sheets (CSS),
 
-Scope.Business.In.3.sec=Recoding of the "rendering engine" in JavaScript with "Xray" capability,
+Scope.Business.In.3.sec=Recoding of the "rendering engine" in JavaScript with direct editing capability (based on "Xray" interface),
 
 Scope.Business.In.4.sec=Demonstration automation of {AutomationWork.cl}, and
 
@@ -44,6 +44,20 @@ Scope.Business.In.=[Z/ol-i/s5]
 
 Scope.Business.Out.sec=Implementation of blockchain-based peer-to-peer transacting, e-signature and the like. 
  
+Scope.Org.In.sec=Creation of a collaboration model for contributing and governing legal and technical materials for standards-based transacting.
+
+Scope.Geo.In.sec=All work will be performed remotely, and delivered online.
+
+Scope.Geo.Out.sec=On premises work.
+
+Scope.Data.In.sec=All data will be fictional.  {_Client} may optionally provide information about common patterns of {_SOWs}.
+
+Scope.Data.Out.sec=Client data.
+
+Scope.Tech.In.sec=Cmacc data model, new JavaScript-based rendering engine, integration with smart contract messaging. 
+
+Scope.Tech.Out.sec=Blockchain-based secure messaging, cryptographic-based access control.  
+
 AutomationWork.cl=notice provisions
 
 _MSA=<a href="" class="definedterm">MSA</a>
