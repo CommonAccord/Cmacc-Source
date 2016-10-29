@@ -4,60 +4,20 @@ Doc.Version=Draft 1
 
 Project.Title=Develop Model SOW
 
-=[F/US/00/Agt/SOW/Sec/0.md]
-
-Client.ProjectManager.=[U/id/andrea_ang.md]
+Client.ProjectManager.=[U/id/andrea_ang.md] - The Managers for this Project. 
 
 Vendor.ProjectManager.=[U/id/quentin_quade.md]
 
-Note=This is the MSA for this SOW.  Linking this way makes the parameters available.  
+Objective.=[F/US/00/Agt/SOW/Demo/Objective/0.md] - The {Objective.*} parameters.
 
-=[F/US/00/Agt/Service/MSA/ABA/Demo/0.md]
-
-Note=Linking this way lets us reference elements with the prefix MSA.  E.g., the title.
-  
-MSA.=[F/US/00/Agt/Service/MSA/ABA/Demo/0.md]
-
-Objective.ClientBusiness.sec=To unify the field of contract Statements of Work (singular "{_SOW}", plural "{_SOWs}") for the benefit of the contracting public.  
-
-Objective.Project.sec=To establish a format or framework for {_SOWs} based on a publicly-shared, "smart contract" compatible model.
-
-Objective.Phase.sec=Create one very comprehensive {_SOW} with an accompanying Master Services Agreement ("{_MSA}") text.  Demonstrate the {_SOW} with a number of hypothetical use cases, and coordinate with stakeholders. 
-
-Objective.Constraint.High.sec=The {_Project} shall be conducted and completed without expenditure of funds other than direct expenses approved in advance.
-
-Objective.Constraint.Medium.sec=The {_Project} shall be conducted in a manner that is open and inclusive.
-
-Objective.Constraint.Low.sec=The {_Project} shall be conducted rapidly and iteratively, with frequent reporting, status meetings, and coordination.
-
-Scope.Business.In.1.sec=Text "objects" for {_SOWs} and an {_MSA} in English language (US),
-
-Scope.Business.In.2.sec=Friendly presentation using layout and graphical elements, based on text objects, images and Cascading Style Sheets (CSS),
-
-Scope.Business.In.3.sec=Recoding of the "rendering engine" in JavaScript with direct editing capability (based on "Xray" interface),
-
-Scope.Business.In.4.sec=Demonstration automation of {AutomationWork.cl}, and
-
-Scope.Business.In.5.sec=Collaboration among a group of non-technical operators (e.g. lawyers or law students) on legal document text objects.
-
-Scope.Business.In.=[Z/ol-i/s5] 
-
-Scope.Business.Out.sec=Implementation of blockchain-based peer-to-peer transacting, e-signature and the like. 
- 
-Scope.Org.In.sec=Creation of a collaboration model for contributing and governing legal and technical materials for standards-based transacting.
-
-Scope.Geo.In.sec=All work will be performed remotely, and delivered online.
-
-Scope.Geo.Out.sec=On premises work.
-
-Scope.Data.In.sec=All data will be fictional.  {_Client} may optionally provide information about common patterns of {_SOWs}.
-
-Scope.Data.Out.sec=Client data.
-
-Scope.Tech.In.sec=Cmacc data model, new JavaScript-based rendering engine, integration with smart contract messaging. 
-
-Scope.Tech.Out.sec=Blockchain-based secure messaging, cryptographic-based access control.  
+Scope.=[F/US/00/Agt/SOW/Demo/Scope/0.md] - The {Scope.*} parameters.
 
 AutomationWork.cl=notice provisions
 
+=[F/US/00/Agt/SOW/Sec/0.md] - we reference the form of SOW
+
+MSA.=[F/US/00/Agt/Service/MSA/ABA/Demo/0.md] - This is the MSA.  Linking this way allows reference as {MSA.*}.  
+
+=[F/US/00/Agt/Service/MSA/ABA/Demo/0.md] - This is the MSA.  Linking this way lets our SOW directly inherit the parties, defined terms, etc.
+  
 _MSA=<a href="" class="definedterm">MSA</a>
