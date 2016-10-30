@@ -2,7 +2,12 @@ Model.Root={Sec}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec=<table border=1>{Ti.Row}{sec.Row}</table>
+
+sec={0.sec}{Table}
+
+Table=<table border=1>{Ti.Row}{sec.Row}</table>
+
+0.sec=</i>
 
 Ti.Row=<tr><th>{1.Ti}</th></tr>
 
