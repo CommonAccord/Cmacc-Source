@@ -33,6 +33,7 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
 
 elseif(isset($v)) { 
 	  $vhtml =  htmlspecialchars(json_encode($v));
+	  $vhtml = str_replace('\/', '/', $vhtml);
 	  echo "\"$k\" : $vhtml , <br><br>"; 
 	}
 

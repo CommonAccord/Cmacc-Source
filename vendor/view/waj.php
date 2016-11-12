@@ -36,6 +36,7 @@ elseif(isset($v)) {
 
   $vhtml = str_replace('{', '{{', $vhtml);
   $vhtml = str_replace('}', '}}', $vhtml);
+  $vhtml = str_replace('\/', '/', $vhtml);
 
 	  echo "\$ $k = $vhtml; <br><br>"; 
 	}
