@@ -11,6 +11,9 @@ echo "<a href=index.php?action=openedit&file=" .$dir.">". COMPLETE_TAB_MESSAGE."
 echo "<a href=index.php?action=ipld&file=" .$dir.">". IPLD_TAB_MESSAGE
 ."</a> &emsp; ";
 
+echo "<a href=index.php?action=waj&file=" .$dir.">". WAJ_TAB_MESSAGE
+."</a> &emsp; ";
+
 echo "<b><a href=index.php?action=doc&file=" .$dir.">". DOC_TAB_MESSAGE
 ."</a></b> &emsp; ";
 
