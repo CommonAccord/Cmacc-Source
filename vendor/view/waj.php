@@ -20,12 +20,12 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "{\"/\": \"<a href=$_SERVER[PHP_SELF]?action=ipld&file=$matches[1]>$matches[1]</a>\"}" ;//don't wrap in link for IPLD view
-	  echo "\"$k\" : $vlink , <br><br>"; 
+     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=waj&file=$matches[1]>$matches[1]</a>]" ;//don't wrap in link for IPLD view
+ 	  echo "\$ $k = $vlink;<br><br>"; 
    }
    else{ 
-     $vlink = "{\"/\": \"<a href=$_SERVER[PHP_SELF]?action=ipld&file=$matches[1]>$matches[1]</a>\"}"; //don't wrap in link for IPLD view
-     echo "$vlink , <br><br>"; 
+     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=waj&file=$matches[1]>$matches[1]</a>]"; //don't wrap in link for IPLD view
+     echo "\$ xx = $vlink;<br><br>"; 
    }
 }
 
@@ -36,9 +36,10 @@ elseif(isset($v)) {
 
   $vhtml = str_replace('{', '{{', $vhtml);
   $vhtml = str_replace('}', '}}', $vhtml);
+  $vhtml = str_replace('{{_', '{{_.', $vhtml);
   $vhtml = str_replace('\/', '/', $vhtml);
 
-	  echo "\$ $k = $vhtml; <br><br>"; 
+	  echo "\$ $k = $vhtml;<br><br>"; 
 	}
 
         else { 
