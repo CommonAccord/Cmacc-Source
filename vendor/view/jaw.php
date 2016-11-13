@@ -7,7 +7,7 @@ include("$lib_path/view-tabs.php");
 ?>
 
 
-<h4>W/A/J source view:</h4>Reformats the key/values into the format for the Willem/Axel/Jerre ".cmacc" implementation. Replaces "." in any key name with an underscore "_".<br><br>
+<h4>JAW source view:</h4>Reformats the key/values into the format for the Willem/Axel/Jerre ".cmacc" implementation. Replaces "." in any key name with an underscore "_".<br><br>
 
 <div id="tab-source">
 
@@ -20,11 +20,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=waj&file=$matches[1]>$matches[1]</a>]" ;//don't wrap in link for IPLD view
+     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=jaw&file=$matches[1]>$matches[1]</a>]" ;//don't wrap in link for IPLD view
  	  echo "\$ $k = $vlink;<br><br>"; 
    }
    else{ 
-     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=waj&file=$matches[1]>$matches[1]</a>]"; //don't wrap in link for IPLD view
+     $vlink = "[<a href=$_SERVER[PHP_SELF]?action=jaw&file=$matches[1]>$matches[1]</a>]"; //don't wrap in link for IPLD view
      echo "\$ xx = $vlink;<br><br>"; 
    }
 }
@@ -38,6 +38,7 @@ elseif(isset($v)) {
   $vhtml = str_replace('}', '}}', $vhtml);
   $vhtml = str_replace('{{_', '{{_.', $vhtml);
   $vhtml = str_replace('\/', '/', $vhtml);
+  $vhtml = str_replace('{{q}}', '{{_.q}}', $vhtml);
 
 	  echo "\$ $k = $vhtml;<br><br>"; 
 	}

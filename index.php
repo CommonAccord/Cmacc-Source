@@ -14,7 +14,7 @@ DEFINE('COMPLETE_TAB_MESSAGE', 'Edit and Complete');	// Tab
 
 DEFINE('IPLD_TAB_MESSAGE', 'IPLD');	// Tab
 
-DEFINE('WAJ_TAB_MESSAGE', 'waj');	// Tab
+DEFINE('JAW_TAB_MESSAGE', 'JAW');	// Tab
 
 DEFINE('DOC_TAB_MESSAGE', 'Document');	// Tab
 

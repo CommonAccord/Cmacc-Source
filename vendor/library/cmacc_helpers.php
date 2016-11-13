@@ -74,7 +74,7 @@ switch ($_REQUEST['action']) {
 
         break;
 
-case 'waj':
+case 'jaw':
 
         if (isset($_REQUEST['submit'])) {
 
@@ -103,7 +103,7 @@ case 'waj':
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/waj.php");
+        include("./vendor/view/jaw.php");
 
         break;
 
