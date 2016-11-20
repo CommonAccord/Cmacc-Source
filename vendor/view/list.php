@@ -24,9 +24,9 @@ echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
 
 $files = scandir($path.$dir);
 
-if(file_exists($path.$dir . 'include.php')) {
+if(file_exists($path.$dir . 'list.html')) {
 echo "<div class='includers'>"; 
-   include $path.$dir . 'include.php';
+   include $path.$dir . 'list.html';
 echo "</div>";
 }
 
@@ -40,7 +40,7 @@ foreach($files as $f) {
                 }
         }
         else {
-                if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
+                if( !( ($f == 'list.html') || preg_match('/^\./', $f) ) ) {
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='" . ASSETS_PATH . "/play.png'> $f</a>";
                 }
         }
