@@ -1,10 +1,12 @@
 See=one of the forms - foundersrep or nofounderrep
 
-Doc.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
+Note=Annexes are not completed!
+
+Doc.Ti=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 0.sec={0.1.sec}<br>{0.2.sec}
 
-0.1.sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this "<strong>{Agreement}</strong>"), is made as of {AGT.Effective.YMD} by and among {Company.Name.Full}, a Delaware corporation (the "<strong>{Company}</strong>"), the investors listed on <u>Exhibit A</u> attached to {this_Agreement} (each a "<strong>{Purchaser}</strong>" and together the "<strong>{Purchasers}</strong>") {Prologue.ThisAgreement.Ins1}
+0.1.sec=THIS {Doc.Ti} (this "<strong>{Agreement}</strong>"), is made as of {AGT.Effective.YMD} by and among {Company.Name.Full}, a Delaware corporation (the "<strong>{Company}</strong>"), the investors listed on <u>Exhibit A</u> attached to {this_Agreement} (each a "<strong>{Purchaser}</strong>" and together the "<strong>{Purchasers}</strong>") {Prologue.ThisAgreement.Ins1}
 
 Prologue.ThisAgreement.Ins1=and the persons listed as "{Founder}s" on the signature pages to {this_Agreement} (each a "<strong>{Founder}</strong>" and together the "<strong>{Founder}s</strong>").
 
@@ -425,63 +427,19 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.=[Z/ol/17]
 
-90.1.sec=IN WITNESS WHEREOF, the parties have executed this {Series_A_Preferred_Stock} Purchase {Agreement} as of the date first written above.
+00.1.sec=IN WITNESS WHEREOF, the parties have executed this {Series_A_Preferred_Stock} Purchase {Agreement} as of the date first written above.
 
-90.2.sec={Company.Sign.Block}<br>{Founders.Sign.Block}<br>{Purchasers.Sign.Block}
+00.2.sec={Company.Sign.Block}<br>{Founders.Sign.Block}<br>{Purchasers.Sign.Block}
 
-90.3.sec=<b>Exhibits</b><br>{Exhibit.Sec}
+00.3.sec=<b>Exhibits</b><br>{Annex.Sec}
 
 =[Z/ol/6]
 
 DocBody={Doc}
 
-90.
-COMPANY:
 
-By:    
+Annex.Sec=<strong><u>EXHIBITS</u></strong><br>{Annex.sec}
 
-Name:   <br />
-(print)
-
-Title:  
-
-Address:
-
-
-[FOUNDERS:
-
-   <br />
-Signature
-
-Name:   <br />
-(print)
-
-Address:
-
-   
-
-
-PURCHASERS:
-
-____________________________________<br />
-(Print Name of {Purchaser})
-
-By:  
-
-Name:   <br />
-(print)
-
-Title:  
-
-Address:
-
-  
-
- 
-</div>
-<div>
-
-Attach.List=<strong><u>EXHIBITS</u></strong>
 
 Exhibit.1.Ti=Schedule of {Purchasers}
 
@@ -536,6 +494,6 @@ Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 
 3A.5.sec=Such {Founder} has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
-3A.=[Z/f/ol/5]
+3A.=[Z/ol/5]
 
 =[Wx/org/nvca/SPA/Sec/DefinedTerms_v01.md]

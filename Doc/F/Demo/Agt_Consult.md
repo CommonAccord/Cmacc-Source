@@ -6,11 +6,11 @@ P1.Handle=Client
 
 P2.Handle=Consultant
 
-Frame.=[F/US/00/Agt/Frame/2Parties/0.md]
+Frame.=[F/US/00/Agt/Base/Frame/2Parties/0.md]
 
 Doc.GUID=012346
 
-Agt.Ti=Consulting Agreement
+Doc.Ti=Consulting Agreement
 
 Why.secs={P2.Handle} will provide services to {P1.Handle}.  In that connection, the {_parties} anticipate that {P2.Handle} will learn {_Confidential_Information} of {P1.Handle}. 
 

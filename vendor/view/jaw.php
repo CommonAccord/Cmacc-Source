@@ -21,11 +21,12 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
      $vlink = "[<a href=$_SERVER[PHP_SELF]?action=jaw&file=$matches[1]>$matches[1]</a>]" ;//don't wrap in link for IPLD view
- 	  echo "\$ $k = $vlink;<br><br>"; 
+     $k =rtrim($k, ".");
+ 	  echo "\$ $k = $vlink<br><br>"; 
    }
    else{ 
      $vlink = "[<a href=$_SERVER[PHP_SELF]?action=jaw&file=$matches[1]>$matches[1]</a>]"; //don't wrap in link for IPLD view
-     echo "\$ xx = $vlink;<br><br>"; 
+     echo "\$ xx = $vlink<br><br>"; 
    }
 }
 

@@ -2,11 +2,11 @@ P1.=[U/id/acme_incorporated.md]
 
 P2.=[U/id/abigail_altima.md]
 
-Frame.=[F/US/00/Agt/Frame/2Parties/0.md]
+Frame.=[F/US/00/Agt/Base/Frame/2Parties/0.md]
 
 Doc.GUID=012345
 
-Agt.Ti=Multi-Party Confidentiality Agreement
+Doc.Ti=Multi-Party Confidentiality Agreement
 
 Why.secs=The {_parties} wish to discuss a possible collaboration.  In that connection, they anticipate disclosing {_Confidential_Information} to one another.  With respect to any item of {_Confidential_Information} disclosed by a {_party} to any other {_party}, the disclosing {_party} is deemed a {_Disclosing_Party} and the {_party} receiving such information directly or indirectly is deemed a {_Receiving_Party}. 
 

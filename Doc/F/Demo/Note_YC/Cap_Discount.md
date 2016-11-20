@@ -12,4 +12,4 @@ Company.=[U/id/acme_incorporated.md]
 
 Investor.=[U/id/abigail_altima.md]
 
-=[F/US/00/Agt/Loan/Startup/YC-SAFE/Form/Cap_Discount/0.md]
+=[F/US/00/Agt/Startup/YCombinator/SAFE/Form/Cap_Discount/0.md]
