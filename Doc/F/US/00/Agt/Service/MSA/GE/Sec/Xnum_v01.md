@@ -1,4 +1,6 @@
-Confidential.Xnum=5
+Life.Xnum=2
+
+Conf.Xnum=5
 
 IP.Xnum=6
 
@@ -12,11 +14,9 @@ Comply.Xnum=13
 
 Environment.Xnum=14
 
-Expire.Xnum=16
+Dispute.Xnum=19
 
-Dispute.Xnum=22
-
-Def.Xnum=22
+Def.Xnum=21
 
 
 Agt.Exh.A=<font color="blue">Exhibit A</font>
