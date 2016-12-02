@@ -16,7 +16,7 @@ Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
 
 2.1.0.sec=RESOLVED, that the Certificate of Incorporation of this corporation be amended and restated in its entirety to read as follows:
 
-2.1.=[F/US/00/Agt/Startup/NVCA/COI/Sec/Text_v01.md]
+2.1.=[F/US/00/Agt/Startup/NVCA/COI/Sec/0.md]
 
 2.=[Z/ol/1]
 
