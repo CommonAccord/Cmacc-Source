@@ -2,7 +2,7 @@ Note=Mix and match.  In this example, the CooleyGo version of a Waiver section i
 
 Misc.Waive.=[F/US/00/Agt/Sec/Misc/Waive/0.md]
 
-Misc.Waive.Sec={Misc.Waive.MSPA.Sec}
+Misc.Waive.Sec={Misc.Waive.ABA.MSPA.Sec}
 
 =[F/Demo/Agt_NDA.md]
 
