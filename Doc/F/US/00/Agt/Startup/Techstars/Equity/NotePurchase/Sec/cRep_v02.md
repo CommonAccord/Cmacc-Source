@@ -1,4 +1,4 @@
-Ti=Representations and Warranties of {the_Company}
+Ti=Representations and Warranties of {_the_Company}
 
 Olist=<ol><li>{Organization.Sec}<li>{Power.Sec}<li>{Authorization.Sec}<li>{GovtConsent.Sec}<li>{ComplyLaw.Sec}<li>{ComplyInstruments.Sec}<li>{Offering.Sec}<li>{UseOfProceeds.Sec}</ol>
 

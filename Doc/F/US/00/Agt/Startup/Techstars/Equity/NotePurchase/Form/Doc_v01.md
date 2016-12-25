@@ -28,7 +28,7 @@ YC.=[F/US/00/Agt/Startup/ycombinator/SAFE/Form/Cap_Discount/0.md]
 
 Sec={Doc}
 
-=[F/US/00/Agt/Startup/Techstars/Equity/NotePurchase/Sec/DefinedTerms_v01.md]
+_=[F/US/00/Agt/Startup/Techstars/Equity/NotePurchase/Sec/DefinedTerms_v01.md]
 
 Loan.Xref=Section 1
  
