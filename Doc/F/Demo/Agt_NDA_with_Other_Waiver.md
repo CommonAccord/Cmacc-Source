@@ -6,8 +6,8 @@ Misc.Waive.Sec={ABA.Misc.Waive.Sec}
 
 =[F/Demo/Agt_NDA.md]
 
-_Legal_Requirements=law
+ABA._Legal_Requirements=law
 
-_Sellers'_Representative=duly authorized agent of a {_party}
+ABA._Sellers'_Representative=duly authorized agent of a {_party}
 
-_Seller={_party}
+ABA._Seller={_party}
