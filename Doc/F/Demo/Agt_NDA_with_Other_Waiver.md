@@ -1,13 +1,15 @@
-Note=Mix and match.  In this example, the CooleyGo version of a Waiver section is replaced by the ABA MSPA version of a Waiver section.  We reference a general library of terms, then override the Misc.Waive.Sec with the MSPA version and replace the MSPA's defined terms with ones appropriate for the NDA.
+Note=Mix and match.  In this example, the CooleyGo version of a Waiver section is replaced by a "standard" form of waiver provision based on the American Bar Association's Model Stock Purchase Agreement waiver section.  We override the Misc.Waive.Sec with the standard version and replace the defined terms with ones appropriate for the NDA.  We also eliminate the Oxford comma (q).
 
-ABA.=[F/US/00/Agt/Acquire/Shares/MSPA/SPA/0.md]
+Note=For an assortment of Waiver clauses - see [Index/F/US/00/Agt/Sec/Misc/Waive/0.md]
 
-Misc.Waive.Sec={ABA.Misc.Waive.Sec}
+Model.=[F/US/00/Agt/Sec/Misc/Waive/0.md]
+
+Misc.Waive.Sec={Model.Sec}
 
 =[F/Demo/Agt_NDA.md]
 
-ABA._Legal_Requirements=law
+Model._Legal_Requirements=law
 
-ABA._Sellers'_Representative=duly authorized agent of a {_party}
+Model._Legal_Right=right, power{q} or privilege
 
-ABA._Seller={_party}
+q=</i>
