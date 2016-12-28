@@ -1,4 +1,4 @@
-Note=Click on "Document" (above) to see four versions of an agreement Frame - with 2 or 4 parties, in English, French and Google-translated Dutch and German.  Have a laugh. 
+Note=Click on "Document" (above) to see four versions of an agreement Frame - with 2 or 4 parties, in English, French, Polish and Google-translated Dutch and German.  Have a laugh. 
 
 Note=Here are the parties:
 
