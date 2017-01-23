@@ -1,18 +1,22 @@
 =[F/00/ID/Entity/0.md]
 
-=[U/at/UK/London/Geo]
+Adr.=[U/at/UK/London/Geo]
 
-Name.Full=Acme UK Limited
+Name.Given=Acme UK 
+
+Name.Inc=Limited
 
 www=acme.com.uk
 
 Email=info@acme.com.uk
 
-Entity=UK limited liability company
+Personality.type=UK limited liability company
+
+Capital.All=1,000,000 pounds, sterling
 
 Adr.Street.#=1
 
-Adr.Street=Upping Street
+Adr.Street.Name=Upping Street
 
 Adr.Zip=E17 7LD
 
@@ -28,6 +32,6 @@ Fax=44.617.345.1234
 
 Adr.Type=principal business
 
-Sign.=[U/id/andrea_ang]
+Sign.=[U/id/andrea_ang.md]
 
 Sign.Title=Manager
