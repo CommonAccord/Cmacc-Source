@@ -10,7 +10,7 @@ P1.Handle=Party One
 
 P2.Handle=Party Two
 
-Why.Secs=To test this frame for {_the_Agreement}
+Why.Secs=To test this frame for making agreements.
 
 P1.Sign.YMD=2017-01-23
 
@@ -25,6 +25,8 @@ P2.=[U/id/abigail_altima.md]
 Note=Miscellaneous provisions are referenced.  We prefix with Misc.
 
 Misc.=[F/US/00/Agt/Sec/Misc/0.md]
+
+Misc.Entire.Xnum=1.4
 
 Def.=[F/US/00/Agt/Sec/Def/0.md]
 
