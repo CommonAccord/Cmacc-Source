@@ -18,6 +18,8 @@ Head.PartyList/3={P1.Name.Full}<br>{P2.Name.Full}<br>{P3.Name.Full}
 
 Head.PartyList/4={P1.Name.Full}<br>{P2.Name.Full}<br>{P3.Name.Full}<br>{P4.Name.Full}
 
+Head.EffectiveDate.sec={_Effective_Date}: {EffectiveDate.YMD}
+
 Note=Parties:
 
 Among.Div={Among.Sec}{Friends.Div}<br>
@@ -115,3 +117,7 @@ Annex.Div=<hr><hr>{Annex.Sec}
 Annex.Sec=<b><center>{Annex.Ti}</center></b><br>{Annex.sec}
 
 Annex.Ti=Attachments
+
+Note=The Oxford comma.  Establishing the default as no such comma.  But can override in your documents.
+
+q=</i>
