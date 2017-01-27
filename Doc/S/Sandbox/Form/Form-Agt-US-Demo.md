@@ -1,4 +1,4 @@
-Note=To make our standards-based contract, we reference the form of agreement.  This is the base, and therefore at the bottom of this page.  We then add some elements.
+Note=To make our standards-based contract, we reference the form of agreement.  This is the base, and therefore at the bottom of this page.  We then add some elements.  This demo now uses the materials at <a href="https://github.com/CommonAccord/Form-Agt">https://github.com/CommonAccord/Form-Agt</a>.
 
 Note=First we list a few "parameters"
 
@@ -34,4 +34,4 @@ Note=We reference the defined terms.  We prefix them with "_", consistent with o
 
 _=[F/US/00/Agt/Sec/DefinedTerm/0.md]
 
-=[S/Sandbox/Form/Form-Agt-US.md]
+=[GH/CommonAccord/Form-Agt/US-v0.md]
