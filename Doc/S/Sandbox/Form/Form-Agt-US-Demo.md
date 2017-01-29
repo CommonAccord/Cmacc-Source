@@ -34,4 +34,8 @@ Note=We reference the defined terms.  We prefix them with "_", consistent with o
 
 _=[F/US/00/Agt/Sec/DefinedTerm/0.md]
 
-=[GH/CommonAccord/Form-Agt/US-v0.md]
+sec={Consult.sec}
+
+=[?https://raw.githubusercontent.com/CommonAccord/Form-Agt/master/US-v0.md]
+
+=[?https://raw.githubusercontent.com/CommonAccord/Agt-Sec-US/master/00-v0.md]
