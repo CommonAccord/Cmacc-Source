@@ -20,11 +20,11 @@ P4.Handle=Quake
 
 Note=Here are the four agreements:
 
-FR.=[F/FR/00/Agt/Base/Frame/4Parties/0.md]  
+PL.=[F/PL/00/Agt/Base/Frame/2Parties/0.md]  
 
-US.=[F/US/00/Agt/Base/Frame/2Parties/0.md]  
+FR.=[F/FR/00/Agt/Base/Frame/3Parties/0.md]  
 
-PL.=[F/PL/00/Agt/Base/Frame/4Parties/0.md]  
+US.=[F/US/00/Agt/Base/Frame/4Parties/0.md]  
 
 NL.=[F/NL/00/Agt/Base/Frame/2Parties/0.md]
 
