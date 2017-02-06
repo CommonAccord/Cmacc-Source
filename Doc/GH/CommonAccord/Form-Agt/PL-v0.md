@@ -1,4 +1,4 @@
-Note=I'm borrowing from the Polish work generously contributed.  I'm improvising.  Please help!!
+Note=I'm borrowing from the Polish work generously contributed.  I'm improvising.  Please help!  Can be viewed at <a href="http://source.commonaccord.org/index.php?action=doc&file=GH/CommonAccord/Form-Agt/PL-v0.md">http://source.commonaccord.org/index.php?action=doc&file=GH/CommonAccord/Form-Agt/PL-v0.md</a>
 
 Head.EffectiveDate.sec={_Effective_Date}: {EffectiveDate.YMD}
 
