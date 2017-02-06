@@ -24,6 +24,12 @@ echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
 
 $files = scandir($path.$dir);
 
+if(file_exists($path.$dir . 'README.md')) {
+echo "<div class='includers'>"; 
+   include $path.$dir . 'README.md';
+echo "</div>";
+}
+
 if(file_exists($path.$dir . 'list.html')) {
 echo "<div class='includers'>"; 
    include $path.$dir . 'list.html';
