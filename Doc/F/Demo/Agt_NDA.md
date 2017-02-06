@@ -8,7 +8,7 @@ Doc.GUID=012345
 
 Doc.Ti=Mutual Confidentiality Agreement
 
-Why.secs={Why.Mutual.sec}
+Why.Secs={Why.Mutual.sec}
 
 Purpose.cl=discuss and perhaps negotiate a collaboration
 
@@ -38,4 +38,4 @@ q=,
 
 Annex.Div=</i>
 
-=[F/US/00/Agt/NDA/Sec/0.md]
+=[GH/CommonAccord/Agt-NDA/Sec/0.md]
