@@ -27,18 +27,18 @@ switch ($_REQUEST['action']) {
 
    case 'doc':
 
-        include('./vendor/view/doc.php');
+        include('./vendor/cmacc-app/view/doc.php');
         break;
 
     case 'edit':
 
-        include('./vendor/view/edit.php');
+        include('./vendor/cmacc-app/view/edit.php');
         break;
 
 
    case 'html':
 
-        include('./vendor/view/html.php');
+        include('./vendor/cmacc-app/view/html.php');
         break;
 
     case 'ipld':
@@ -70,7 +70,7 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/ipld.php");
+        include("./vendor/cmacc-app/view/ipld.php");
 
         break;
 
@@ -103,37 +103,37 @@ case 'jaw':
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/jaw.php");
+        include("./vendor/cmacc-app/view/jaw.php");
 
         break;
 
 
     case 'list':
 
-        include('./vendor/view/list.php');
+        include('./vendor/cmacc-app/view/list.php');
         break;
 
 
    case 'openedit':
 
-        include('./vendor/view/openedit.php');
+        include('./vendor/cmacc-app/view/openedit.php');
         break;
 
 
    case 'print':
 
-        include('./vendor/view/print.php');
+        include('./vendor/cmacc-app/view/print.php');
         break;
 
    case 'kv':
 
-        include('./vendor/view/print-kvs.php');
+        include('./vendor/cmacc-app/view/print-kvs.php');
         break;
 
 
    case 'raw':
 
-        include('./vendor/view/raw.php');
+        include('./vendor/cmacc-app/view/raw.php');
         break;
 
     case 'source':
@@ -163,7 +163,7 @@ case 'jaw':
         $contents = explode("\n", $content);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/source.php");
+        include("./vendor/cmacc-app/view/source.php");
 
         break;
 
