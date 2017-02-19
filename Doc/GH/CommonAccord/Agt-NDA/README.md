@@ -6,3 +6,16 @@ The sections (in /Sec/) have common-sense names.  There are a number of alternat
 This repo is also mounted as part of source.commonaccord.org - the rendered doc is at http://source.commonaccord.org/index.php?action=doc&file=GH/CommonAccord/Agt-NDA/Sec/0.md.  A demo of an actual agreement is at http://source.commonaccord.org/index.php?action=source&file=F/Demo/Agt_NDA.md.
 
 Please fork and make pull requests. :)
+
+
+MOUNT AS:
+
+/Doc/CommonAccord/Agt-NDA/
+
+DEPENDENCIES:
+
+cmacc-host
+
+cmacc-app
+
+CmaccDoc_Z
