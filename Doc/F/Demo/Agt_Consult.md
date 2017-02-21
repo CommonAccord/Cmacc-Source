@@ -12,7 +12,7 @@ Doc.GUID=012346
 
 Doc.Ti=Consulting Agreement
 
-Why.secs={P2.Handle} will provide services to {P1.Handle}.  In that connection, the {_parties} anticipate that {P2.Handle} will learn {_Confidential_Information} of {P1.Handle}. 
+Why.Secs={P2.Handle} will provide services to {P1.Handle}.  In that connection, the {_parties} anticipate that {P2.Handle} will learn {_Confidential_Information} of {P1.Handle}. 
 
 EffectiveDate.YMD=2016-08-01
 
