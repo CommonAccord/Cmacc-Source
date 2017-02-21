@@ -38,7 +38,7 @@ Life.End.YMD=August 1, 2016
 
 General.Misc.Assign.sec={General.Misc.Assign.Example.Alt3.sec}
 
-/General.Def.Confidential_Information.0.sec={General.Def.Confidential_Information.0.Alt1.sec}
+General.Misc.Entire.sec={General.Misc.Entire.Alt1.sec}
 
 q=,
 
