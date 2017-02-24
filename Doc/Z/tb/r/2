@@ -1,6 +1,6 @@
 Model.Root={Sec}
 
-Sec=Sec=<b>{Ti}</b>{sec}
+Sec=<b>{Ti}</b>{sec}
 
 sec=<table border=1>{0.Sec}{secs}{00.Sec}</table>
 
