@@ -1,4 +1,5 @@
-# CmA_F_Note-YC-SAFE
+<a href="https://github.com/CommonAccord/CmA_F_Note-YC-SAFE">https://github.com/CommonAccord/CmA_F_Note-YC-SAFE</a>
+
 Y Combinator Note.  Ready for cloning in /G/.  
 
 for the YCombinator "SAFE" Notes - http://www.ycombinator.com/documents/#safe (no endorsement)

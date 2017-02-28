@@ -1,4 +1,5 @@
-# CmA_D_Acme-Ang-YC-Note
+<a href="https://github.com/CommonAccord/CmA_D_Acme-Ang-YC-Note/edit/master/README.md">https://github.com/CommonAccord/CmA_D_Acme-Ang-YC-Note/edit/master/README.md</a>
+
 Direct git load repo /G/ - YC SAFE investment note and NDA.
 
 This repo shows a "deal" in four variations.  A single term sheet provides the parameters for four variations on the YC-SAFE investment note.
