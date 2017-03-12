@@ -1,6 +1,6 @@
 Note=Three arbitrators - slower, more expensive.  More predictable.  Increasing the time from 30 to 45. 
 
-=[GH/CommonAccord/Sec-ICC-Arbitration/0.md] 
+=[G/ICCWBO-Arbitration-CmA/0.md] 
 
 EN.ARB.#=<font color="magenta">{EN.ARB.#.3}</font>
 
