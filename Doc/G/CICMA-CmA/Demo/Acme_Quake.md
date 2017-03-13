@@ -22,10 +22,6 @@ CommitmentJournal.Specifics.xlist=By a blockchain registry agreed between {_the_
 
 Law.State.the=Switzerland
 
-Dispute.By.sec={Dispute.By.Arbitration.sec}
-
-Arb.Rules.cl=ICC
-
-Arb.Seat.City,Country=Geneva, Switzerland
+Resolve.sec={Resolve.ICC.EN.ADR.1}<br>The seat of the arbitration shall be Geneva, Switzerland.  The language shall be English.
 
 =[G/CICMA-CmA/Form/Base/0.md]

@@ -1,13 +1,13 @@
 Note=Three arbitrators - slower, more expensive.  More predictable.  Increasing the time from 30 to 45. 
 
-=[G/ICCWBO-Arbitration-CmA/0.md] 
+=[G/ICCWBO-Arbitration-CmA/Sec/0.md] 
 
-EN.ARB.#=<font color="magenta">{EN.ARB.#.3}</font>
+EN.ARB.#={EN.ARB.#.3}
 
-FR.ARB.#=<font color="magenta">{FR.ARB.#.3}</font>
+FR.ARB.#={FR.ARB.#.3}
 
-ES.ARB.#=<font color="magenta">{ES.ARB.#.3}</font>
+ES.ARB.#={ES.ARB.#.3}
 
-DE.ARB.#=<font color="magenta">{DE.ARB.#.3}</font>
+DE.ARB.#={DE.ARB.#.3}
 
-ADR.45=<font color="magenta">30</font>
+ADR.45=45
