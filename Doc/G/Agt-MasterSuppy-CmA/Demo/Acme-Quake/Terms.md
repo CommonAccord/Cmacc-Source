@@ -49,7 +49,3 @@ Assure.General.Total.$=$10,000,000
 Assure.Auto.Occur.$=$1,000,000
 
 Assure.Prof.Occur.$=$2,000,000
-
-=[G/Agt-MasterSuppy-CmA/Form/TermSheet/0.md]
-
-=[G/Agt-MasterSuppy-CmA/Form/0.md]
