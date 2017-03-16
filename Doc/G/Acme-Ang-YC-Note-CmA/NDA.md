@@ -2,6 +2,10 @@ P1.=[G/U/id/acme_incorporated.md]
 
 P2.=[G/U/id/andrea_ang.md]
 
+P1.Handle=<i>Acme</i>
+
+P2.Handle=<i>Ang</i>
+
 Doc.GUID=012345
 
 Doc.Ti=Acme Confidentiality Agreement
@@ -18,9 +22,7 @@ Law.=[G/U/at/US/CA/Geo]
 
 Conf.Engage.Access.sec={Conf.Engage.Access.HumanSolely.sec}
 
-Conf.Life.Sec={Conf.Life.Alt2.Sec}
-
-Conf.Life.sec={Conf.Life.Alt1.sec}
+Conf.Life.sec={Conf.Life.Alt2.sec}
 
 Life.End.YMD=2019-12-31
 
@@ -32,7 +34,7 @@ Misc.Entire.sec={Misc.Entire.Alt1.sec}
 
 Def.Confidential_Information.0.sec={Def.Confidential_Information.0.Alt1.sec}
 
-q=,
+q=</i>
 
 Annex.Div=</i>
 
