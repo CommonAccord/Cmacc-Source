@@ -12,6 +12,8 @@ Email=info@acme.com.uk
 
 Personality.type=UK limited liability company
 
+Personality.type.a=a {Personality.type}
+
 Capital.All=1,000,000 pounds, sterling
 
 Adr.Street.#=1

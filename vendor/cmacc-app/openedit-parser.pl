@@ -94,6 +94,8 @@ print "$_=\n" foreach @arr;
 
 # print "$_=<a href='#$_.Sec' class='definedterm'>$_</a>\n" foreach @arr;
 
+# print ".Ti=$_:\n\n.sec={$_}\n" foreach @arr;
+
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
