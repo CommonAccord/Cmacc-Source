@@ -24,19 +24,7 @@ P1.FinanceWing.=[U/id/acme_uk.md]
 
 P1.FinanceWing.Handle=<i>Acme UK</i>
 
-Comp.Payment.DueAfter.Days=30 days
-
-Comp.EarlyPaymentDiscount.%=3%
-
-Comp.EarlyPaymentDiscount.Example.1.%=1.5%
-
-Comp.EarlyPaymentDiscount.Example.1.Days=15 days
-
-Comp.EarlyPaymentDiscount.Example.2.%=2.9%
-
-Comp.EarlyPaymentDiscount.Example.2.Days=25 days
-
-Comp.EarlyPaymentDiscount.Example.3.%=0%
+Comp.=[G/Agt-MasterSuppy-CmA/Sec/Comp/PaymentProfile/30-Days.md]
 
 Conf.Engage.Duration=two years from disclosure
 
