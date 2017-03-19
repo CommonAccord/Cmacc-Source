@@ -24,7 +24,7 @@ P1.FinanceWing.=[U/id/acme_uk.md]
 
 P1.FinanceWing.Handle=<i>Acme UK</i>
 
-Comp.=[G/Agt-MasterSuppy-CmA/Sec/Comp/PaymentProfile/30-Days.md]
+Comp.=[G/Agt-MasterService-CmA/Sec/Comp/PaymentProfile/30-Days.md]
 
 Conf.Engage.Duration=two years from disclosure
 
