@@ -26,6 +26,7 @@ span :hover {
 .person {
 	color: #4B2503 ;
         text-decoration: none;
+        font-style: italic;
 }  
 
 .definedterm {
