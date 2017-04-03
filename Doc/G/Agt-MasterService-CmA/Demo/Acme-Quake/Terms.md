@@ -37,3 +37,7 @@ Assure.=[G/Agt-MasterService-CmA/Sec/Assure/Cover/10MM.md]
 Conf.Engage.Duration=two years from disclosure
 
 PersonalData.P1.EmploymentDataPolicyURL=acme.com/EmployeeDataPolicy.html
+
+Law.State.the=the State of California, USA
+
+Dispute.Forum.cl=the ICC Court of Arbitration
