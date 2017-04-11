@@ -36,9 +36,17 @@ span :hover {
 
 .secs-and {
 	color: olive ;
-	outline: 2px dotted teal;
+	outline: 2px dotted olive;
+        background-color: #aaf0ff;
+
 }
 
+
+.secs-or {
+	color: teal ;
+	outline: 2px dashed teal;
+        background-color: #f0f0aa;
+}
 
 .xref {
 	color: blue ;
