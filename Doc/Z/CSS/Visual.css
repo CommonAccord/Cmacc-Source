@@ -1,5 +1,7 @@
 body { 
     background-color: #ffffff;
+    font-size: 150%;
+    font: arial, sans-serif;
 }
 
 .paras {
@@ -34,6 +36,21 @@ span :hover {
         text-decoration: none;
 }  
 
+.secs-and {
+	color: olive ;
+	outline: 2px dotted olive;
+        background-color: #aaf0ff;
+	margin: 1cm 6cm 1cm 2cm;
+}
+
+
+.secs-or {
+	color: teal ;
+	outline: 2px dashed teal;
+        background-color: #f0f0aa;
+	margin: 1cm 6cm 1cm 2cm;
+
+}
 
 .xref {
 	color: blue ;
