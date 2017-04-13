@@ -12,7 +12,7 @@ padding: 10px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 }
 
-span { 
+//span { 
     background-color: #ffffff;
 }
 
@@ -43,6 +43,9 @@ span :hover {
 	margin: 1cm 6cm 1cm 2cm;
 }
 
+.secs-and li{
+  margin: 20px 0px;
+}
 
 .secs-or {
 	color: teal ;
@@ -50,6 +53,10 @@ span :hover {
         background-color: #f0f0aa;
 	margin: 1cm 6cm 1cm 2cm;
 
+}
+
+.secs-or li{
+  margin: 20px 0px;
 }
 
 .xref {
