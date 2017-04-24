@@ -40,7 +40,7 @@ span :hover {
 	color: olive ;
 	outline: 2px dotted olive;
         background-color: #aaf0ff;
-	margin: 1cm 6cm 1cm 2cm;
+	margin: 1cm 2cm 1cm 2cm;
 }
 
 .secs-and li{
@@ -51,7 +51,7 @@ span :hover {
 	color: teal ;
 	outline: 2px dashed teal;
         background-color: #f0f0aa;
-	margin: 1cm 6cm 1cm 2cm;
+	margin: 1cm 2cm 1cm 2cm;
 
 }
 
