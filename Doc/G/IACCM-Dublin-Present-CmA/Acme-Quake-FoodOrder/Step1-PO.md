@@ -1,8 +1,8 @@
 =[G/IACCM-Dublin-Present-CmA/Form/FoodOrder-PO.md]
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/id/acme_ie.md]
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/id/quake_ie.md]
 
 Order.1.sec=Broccoli - 200 kilos - 1.50 Euro / kilo - 300 Euros
 
