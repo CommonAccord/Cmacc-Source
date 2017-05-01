@@ -78,11 +78,10 @@ P1.Handle={_P1}
 
 P2.Handle={_P2}
 
-Model.Root={Doc}
-
-View1.Sec={Doc}<hr><hr>{MSA.Doc}
+Model.Root={Doc}<hr><hr>{MSA.Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
 
+MSA.Doc=</i>
 
 =[G/Z/ol/Base]
