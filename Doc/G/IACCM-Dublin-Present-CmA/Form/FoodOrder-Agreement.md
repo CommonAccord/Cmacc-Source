@@ -1,5 +1,7 @@
 Doc.Ti=Food Supply Master Agreement
 
+Why.Secs=To formalise the terms of trading between {_P1} and {_P2}.
+
 Point.sec=To be specified in {_POs}.
 
 Deal.PO.Ti=Purchase Orders
@@ -10,7 +12,7 @@ Deal.PO.=[G/Z/ol/Base]
 
 Deal.Pay.Ti=Payment
 
-Deal.Pay.sec={_P1} shall pay {_P2} in full for all uncontested charges not later than {Pay.Period.Max} after delivery of the {_Goods}.  Any charge that is unpaid within that time will bear interest at the rate of {Pay.Period.Interest.%} per annum from the time of delivery of the related {_Goods} until paid in full. 
+Deal.Pay.sec={_P1} shall pay {_P2} in full for all uncontested charges not later than {Payment Due Within} after delivery of the {_Goods}.  Any charge that is unpaid within that time will bear interest at the rate of {Interest on Late Payments} per annum from the time of delivery of the related {_Goods} until paid in full. 
 
 Deal.Pay.=[G/Z/ol/Base]
 

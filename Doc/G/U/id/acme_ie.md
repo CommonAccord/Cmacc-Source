@@ -18,7 +18,13 @@ Adr.Zip=A96 K063
 
 Capital.All=100,000 Euros
 
-Register.Adr.State=Ireland
+Register.Adr.State=</i>
+
+Register.Account.#=IE-357924
+
+Register.Adr.City=Dubin
+
+Register.Adr.Nation=Ireland
 
 Sign.=[G/U/id/andrea_ang.md]
 

@@ -8,53 +8,51 @@ Parties.sec=<table><tr><td>"{_P1}":<br>{P1.US.Adr.N/1/2}<td/><td>        �
 
 Parties.=[G/Z/ol/Base]
 
-1.Ti=Supply
-
-1.sec={Order.sec}
+Order.Ti=Order
 
 Order.0.sec={_P2} will supply the following list of items (the "{_Order}"):
 
 Order.00.sec={Order.Total.sec}
 
-Order.Total.sec=The total price for the {_Order} is {Order.Total.Price}.
+Order.Total.sec=The total price for the {_Order} is {Order Total Price}.
 
-Order.=[G/Z/ol/s10]
+Order.=[G/Z/ol/s2]
 
-Order.secs={Order.Items.Number}
+Order.secs={Ordered Items}
 
-Order.Items.1={Order.1.sec}
+1 Item={Order Item 1}
 
-Order.Items.2={Order.1.sec}<li>{Order.2.sec}
+2 Items={Order Item 1}<li>{Order Item 2}
 
-Order.Items.3={Order.1.sec}<li>{Order.2.sec}<li>{Order.3.sec}
+3 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}
 
-Order.Items.4={Order.1.sec}<li>{Order.2.sec}<li>{Order.3.sec}<li>{Order.4.sec}
+4 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}
 
-Order.Items.5={Order.1.sec}<li>{Order.2.sec}<li>{Order.3.sec}<li>{Order.4.sec}<li>{Order.5.sec}
+5 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}<li>{Order Item 5}
 
-Order.Items.6={Order.1.sec}<li>{Order.2.sec}<li>{Order.3.sec}<li>{Order.4.sec}<li>{Order.5.sec}<li>{Order.6.sec}
+6 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}<li>{Order Item 5}<li>{Order Item 6}
 
+Delivery.Ti=Delivery
 
-2.Ti=Delivery
+Delivery.1.sec={_P2} will deliver the {_Order} to {_P1} at {P1.US.Adr.1,2}.
 
-2.1.sec={_P2} will deliver the {_Order} to {_P1} at {P1.US.Adr.1,2}.
+Delivery.2.sec=Delivery will be completed by {Delivery Due By}.  The hours during which {_P1} receives deliveries are {Client Reception Hours}.
+ 
+Delivery.=[G/Z/ol/s2]
 
-2.2.sec=Delivery will be completed by {Order.DueBy.Time}.  The hours during which {_P1} receives deliveries are {P1.ReceivingHours.cl}.
+Comp.Ti=Compensation
 
-2.=[G/Z/ol/s2]
+Comp.sec={_P1} will pay {_P2} a total of {Order Total Price}.
 
+Comp.=[G/Z/ol/Base]
 
-3.Ti=Compensation
+Terms.Ti=Master Agreement Terms
 
-3.sec={_P1} will pay {_P2} a total of {Order.Total.Price}.
+Terms.1.sec=This {_PO} is subject to the terms of a master agreement titled "{MSA.Doc.Ti}," dated {MSA.EffectiveDate.YMD} identified as Document number {MSA.Doc.GUID}, and referenced below.
 
-4.Ti=Master Agreement Terms
+Terms.2.sec=<b>This {_PO} has no effect unless the parties have a master agreement.</b>
 
-4.1.sec=This {_PO} is subject to the terms of a master agreement titled "{MSA.Doc.Ti}," dated {MSA.EffectiveDate.YMD} identified as Document number {MSA.Doc.GUID}, and referenced below.
-
-4.2.sec=<b>This {_PO} has no effect unless the parties have a master agreement.</b>
-
-4.=[G/Z/ol/s2]
+Terms.=[G/Z/ol/s2]
 
 00.sec={Sign.Sec}
 
@@ -80,4 +78,6 @@ Model.Root={Doc}
 
 View1.Sec={Doc}<hr><hr>{MSA.Doc}
 
-=[G/Z/ol/4]
+Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
+
+=[G/Z/ol/Base]
