@@ -12,9 +12,19 @@ Deal.PO.=[G/Z/ol/Base]
 
 Deal.Pay.Ti=Payment
 
-Deal.Pay.sec={_P1} shall pay {_P2} in full for all uncontested charges not later than {Payment Due Within} after delivery of the {_Goods}.  Any charge that is unpaid within that time will bear interest at the rate of {Interest on Late Payments} per annum from the time of delivery of the related {_Goods} until paid in full. 
+Deal.Pay.1.Ti=Due
 
-Deal.Pay.=[G/Z/ol/Base]
+Deal.Pay.1.sec={_P1} will pay {_P2} in full for all uncontested charges not later than <u>{Payment Due Within}</u> after delivery of the {_Goods}.
+
+Deal.Pay.2.Ti=Method
+
+Deal.Pay.2.sec={_P1} will pay {_P2} by bank transfer to {_P2}'s account at: <u>{Supplier Bank Information}</u>. 
+
+Deal.Pay.3.Ti=Late Charge
+
+Deal.Pay.3.sec=Any charge that is unpaid within that time will bear interest at the rate of <u>{Interest on Late Payments}</u> per annum from the time of delivery of the related {_Goods} until paid in full. 
+
+Deal.Pay.=[G/Z/ol/3]
 
 Deal.Delivery.Ti=Delivery
 
