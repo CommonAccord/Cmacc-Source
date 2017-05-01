@@ -1,3 +1,7 @@
+MSA.EffectiveDate.YMD={MSA Effective Date}
+
+MSA.Doc.GUID={MSA Document Number}
+
 Doc.Ti=Common Food Supply Purchase Order ("{_PO}")
 
 0.sec={Parties.Sec}
@@ -79,5 +83,6 @@ Model.Root={Doc}
 View1.Sec={Doc}<hr><hr>{MSA.Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
+
 
 =[G/Z/ol/Base]
