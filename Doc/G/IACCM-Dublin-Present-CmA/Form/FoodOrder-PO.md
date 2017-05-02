@@ -70,6 +70,8 @@ _P1=<a href="#" class="definedterm">Restaurant</a>
 
 _P2=<a href="#" class="definedterm">Food Supplier</a>
 
+_Annex=<a href="#" class="definedterm">Annex</a>
+
 _PO=<a href="#" class="definedterm">PO</a>
 
 _Order=<a href="#" class="definedterm">Order</a>

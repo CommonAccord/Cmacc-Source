@@ -54,11 +54,11 @@ Deal.sec=<ol class="secs-and">{Deal.PO.LI}{Deal.Pay.LI}{Deal.Delivery.LI}</ol>
 
 Deal.=[G/Z/ol/Base]
 
-Def.sec=TBD
+Def.sec=Terms parameterised in {_this_Agreement} are to be defined in the terms annexed to this MSA (the "{_Annex}").
 
-Relate.sec=TBD
+Relate.sec=To be specified in the {_Annex}.
 
-Misc.sec=TBD
+Misc.sec=To be specified in the {_Annex}.
 
 _P1=<a href="#" class="definedterm">Restaurant</a>
 
