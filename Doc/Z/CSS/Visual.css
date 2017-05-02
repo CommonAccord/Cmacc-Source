@@ -12,12 +12,13 @@ padding: 10px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 }
 
-//span { 
-    background-color: #ffffff;
-}
-
 span :hover { 
     background-color: #f0f0ff;
+}
+
+.sec-ti {
+	color: #0F0F8F;
+            font-weight: bold;
 }
 
 .token {

@@ -18,6 +18,12 @@ span :hover {
     background-color: #f0f0ff;
 }
 
+.sec-ti {
+	color: #0F0F8F;
+            font-weight: bold;
+
+}  
+
 .token {
 	color: maroon ;
         text-decoration: none;

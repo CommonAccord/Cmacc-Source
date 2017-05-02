@@ -15,7 +15,14 @@
 }
 
 .xref {
-	color: blue ;
+	color: black ;
         text-decoration: none;
 
 }
+
+.sec-ti {
+	color: black;
+            font-weight: bold;
+
+}
+
