@@ -2,13 +2,18 @@ Doc.Ti=Dublin Food Industry Common Terms (version 0.1)
 
 Comment.sec=This {_Annex} reconfigures a model Master Service Agreement for the purposes of the Dublin food industry.  In order to maintain numbering consistency, where a provision is removed, we keep the section stub and numbering.  (Editors Note:  Do mouse hover-over to see the section names that have been deleted.  It is also possible to fully remove sections and renumber.) Customized provisions are marked in <i>italics</i>.
 
+
+Services.Description=restaurant food supply
+
 Appoint.Affiliate.Sec=&emsp; &emsp;
 
 Appoint._SOW={_PO}
 
 Appoint._SOW={_POs}
 
-_Supplier={_P1}
+_Supplier={_P2}
+
+_Company={_P1}
 
 Staff.sec=<i>{Staff.List.Sec}</i>
 
