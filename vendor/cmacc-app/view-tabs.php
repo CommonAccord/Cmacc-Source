@@ -6,10 +6,12 @@ echo "<a href=index.php?action=source&file=" .$dir.">". SOURCE_TAB_MESSAGE."</a>
 
 echo "<a href=index.php?action=edit&file=" .$dir.">".EDIT_TAB_MESSAGE."</a> &emsp; ";
 
-echo "<b><a href=index.php?action=doc&file=" .$dir.">". DOC_TAB_MESSAGE
-."</a></b> &emsp; ";
+echo "(<b><a href=index.php?action=doc&file=" .$dir.">". DOC_TAB_MESSAGE
+."</a> ";
 
-echo "<a href=index.php?action=print&file=" .$dir.">".PRINT_TAB_MESSAGE."</a> &emsp; ";
+echo "<a href=index.php?action=visual&file=" .$dir."> Visual</a> & ";
+
+echo "<a href=index.php?action=print&file=" .$dir.">".PRINT_TAB_MESSAGE."</a></b>) &emsp; ";
 
 echo "<a href=" . URLFORDOCSINREPO . $dir.">GitHub</a> &emsp; ";
 
@@ -24,11 +26,5 @@ echo "<a href=index.php?action=ipld&file=" .$dir.">". IPLD_TAB_MESSAGE
 
 echo "<a href=index.php?action=jaw&file=" .$dir.">". JAW_TAB_MESSAGE
 ."</a> &emsp; ";
-
-echo "<b><a href=index.php?action=visual&file=" .$dir."> Visual</a></b> &emsp; ";
-
-echo "<b><a href=index.php?action=view1&file=" .$dir.">". "View1"
-."</a></b> &emsp; ";
-
 
 ?>
