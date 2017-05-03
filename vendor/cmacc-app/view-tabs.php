@@ -27,5 +27,8 @@ echo "<a href=index.php?action=jaw&file=" .$dir.">". JAW_TAB_MESSAGE
 
 echo "<b><a href=index.php?action=visual&file=" .$dir."> Visual</a></b> &emsp; ";
 
+echo "<b><a href=index.php?action=view1&file=" .$dir.">". "View1"
+."</a></b> &emsp; ";
+
 
 ?>
