@@ -14,9 +14,10 @@ P1.Handle={_P1}
 
 P2.Handle={_P2}
 
+Payment.DueAfter.Days={Payment Due Within}
+
 ShowMe1={Order.Doc}
 
 ShowMe2={MSA.Doc}
 
 Model.Root={Order.Doc}<hr>{MSA.Doc}
-  
