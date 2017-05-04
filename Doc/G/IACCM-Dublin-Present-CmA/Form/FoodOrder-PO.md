@@ -1,7 +1,3 @@
-MSA.EffectiveDate.YMD={MSA Effective Date}
-
-MSA.Doc.GUID={MSA Document Number}
-
 Doc.Ti=Common Food Supply Purchase Order ("{_PO}")
 
 0.sec={Parties.Sec}

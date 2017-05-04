@@ -1,5 +1,9 @@
 Doc.Ti=Food Supply Master Agreement
 
+EffectiveDate.YMD={MSA Effective Date}
+
+Doc.GUID={MSA Document Number}
+
 Why.Secs=To formalise the terms of trading between {_P1} and {_P2}.
 
 Point.sec=To be specified in {_POs}.

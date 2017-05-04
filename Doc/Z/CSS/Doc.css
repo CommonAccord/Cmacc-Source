@@ -41,6 +41,11 @@ span :hover {
 }  
 
 
+.highlight {
+	color: purple ;
+        font-weight: bold;
+}  
+
 .xref {
 	color: blue ;
         text-decoration: none;
