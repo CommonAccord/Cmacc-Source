@@ -30,14 +30,14 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
-   case 'view1':
+   case 'showme1':
 
-        include('./vendor/cmacc-app/view/view1.php');
+        include('./vendor/cmacc-app/view/showme1.php');
         break;
 
-   case 'view2':
+   case 'showme2':
 
-        include('./vendor/cmacc-app/view/view2.php');
+        include('./vendor/cmacc-app/view/showme2.php');
         break;
 
     case 'edit':
@@ -107,10 +107,6 @@ case 'jaw':
         break;
 
 
-   case 'raw':
-
-        include('./vendor/cmacc-app/view/raw.php');
-        break;
 
     case 'source':
 

@@ -9,7 +9,7 @@ echo "<a href=index.php?action=edit&file=" .$dir.">".EDIT_TAB_MESSAGE."</a> &ems
 echo "(<b><a href=index.php?action=doc&file=" .$dir.">". DOC_TAB_MESSAGE
 ."</a> ";
 
-echo "<a href=index.php?action=visual&file=" .$dir."> Visual</a> & ";
+echo "<a href=index.php?action=visual&file=" .$dir."> Visual</a> ";
 
 echo "<a href=index.php?action=print&file=" .$dir.">".PRINT_TAB_MESSAGE."</a></b>) &emsp; ";
 
@@ -26,5 +26,12 @@ echo "<a href=index.php?action=ipld&file=" .$dir.">". IPLD_TAB_MESSAGE
 
 echo "<a href=index.php?action=jaw&file=" .$dir.">". JAW_TAB_MESSAGE
 ."</a> &emsp; ";
+
+echo "ShowMe: <a href=index.php?action=showme1&file=" .$dir.">". 1
+."</a> ";
+
+
+echo "<a href=index.php?action=showme2&file=" .$dir.">". 2
+."</a> ";
 
 ?>

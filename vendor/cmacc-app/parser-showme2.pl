@@ -83,7 +83,7 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
       }
 
 
-my $output  = parse($ARGV[0], "View1.Sec");
+my $output  = parse($ARGV[0], "ShowMe2");
 print $output;
 
 #clean up the temporary files (remote fetching)

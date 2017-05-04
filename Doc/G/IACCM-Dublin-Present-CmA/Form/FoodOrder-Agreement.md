@@ -18,7 +18,7 @@ Deal.Pay.Ti=Payment
 
 Deal.Pay.1.Ti=Due
 
-Deal.Pay.1.sec={_P1} will pay {_P2} in full for all uncontested charges not later than <u>{Payment Due Within}</u> after delivery of the {_Goods}.
+Deal.Pay.1.sec={_P1} will pay {_P2} in full for all uncontested charges not later than <u>{Payment Due Within}</u> after delivery of the {_Products}.
 
 Deal.Pay.2.Ti=Method
 
@@ -26,7 +26,7 @@ Deal.Pay.2.sec={_P1} will pay {_P2} by bank transfer to {_P2}'s account at: <u>{
 
 Deal.Pay.3.Ti=Late Charge
 
-Deal.Pay.3.sec=Any charge that is unpaid within that time will bear interest at the rate of <u>{Interest on Late Payments}</u> per annum from the time of delivery of the related {_Goods} until paid in full. 
+Deal.Pay.3.sec=Any charge that is unpaid within that time will bear interest at the rate of <u>{Interest on Late Payments}</u> per annum from the time of delivery of the related {_Products} until paid in full. 
 
 Deal.Pay.=[G/Z/ol/3]
 
@@ -34,19 +34,19 @@ Deal.Delivery.Ti=Delivery
 
 Deal.Delivery.Shipping.Ti=Packing and Delivery
 
-Deal.Delivery.Shipping.sec={_P2} takes full responsibility for properly packing, labeling and delivering {_Goods} to {_P2}'s receiving area.
+Deal.Delivery.Shipping.sec={_P2} takes full responsibility for properly packing, labeling and delivering {_Products} to {_P2}'s receiving area.
 
 Deal.Delivery.Shipping.=[G/Z/ol/Base]
 
 Deal.Delivery.Receiving.Ti=Receiving
 
-Deal.Delivery.Receiving.sec={_P1} is responsible for keeping its receiving area available during scheduled delivery periods and having personnel available to receive the {_Goods}.
+Deal.Delivery.Receiving.sec={_P1} is responsible for keeping its receiving area available during scheduled delivery periods and having personnel available to receive the {_Products}.
 
 Deal.Delivery.Receiving.=[G/Z/ol/Base]
 
 Deal.Delivery.Confirming.Ti=Confirmation
 
-Deal.Delivery.Confirming.sec={_P2} will confirm receipt of {_Goods} at the moment of delivery.
+Deal.Delivery.Confirming.sec={_P2} will confirm receipt of {_Products} at the moment of delivery.
 
 Deal.Delivery.Confirming.=[G/Z/ol/Base]
 
@@ -63,21 +63,6 @@ Def.sec=Terms parameterised in {_this_Agreement} are to be defined in the terms 
 Relate.sec=To be specified in the {_Annex}.
 
 Misc.sec=To be specified in the {_Annex}.
-
-_P1=<a href="#" class="definedterm">Restaurant</a>
-
-_P2=<a href="#" class="definedterm">Food Supplier</a>
-
-_Good=<a href="#" class="definedterm">Good</a>
-
-_Goods=<a href="#" class="definedterm">Goods</a>
-
-_PO=<a href="#" class="definedterm">PO</a>
-
-_POs=<a href="#" class="definedterm">POs</a>
-
-
-_Order=<a href="#" class="definedterm">Order</a>
 
 =[G/Agt-Outline-Universal-CmA/Outline/Base/0.md]
 
