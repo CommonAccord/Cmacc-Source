@@ -8,22 +8,4 @@ _P1=<a href="#MSA.Among.Sec" class="definedterm">Restaurant</a>
 
 _P2=<a href="#MSA.Among.Sec" class="definedterm">Food Supplier</a>
 
-MSA._=[G/Agt-MasterService-CmA/Sec/_/MSA_Annex/0.md]
-
-_=[G/Agt-MasterService-CmA/Sec/_/MSA_Annex/0.md]
-
-MSA.Annex.=[G/IACCM-Dublin-Present-CmA/Form/Dublin-MasterSupply-Annex.md]
-
-MSA.=[G/IACCM-Dublin-Present-CmA/Form/FoodOrder-Agreement.md]
-
-Order.=[G/IACCM-Dublin-Present-CmA/Form/FoodOrder-PO.md]
-
-P1.Handle={_P1}
-
-P2.Handle={_P2}
-
-ShowMe1={Order.Doc}
-
-ShowMe2={MSA.Doc}
-
-Model.Root={Order.Doc}<hr>{MSA.Doc}
+=[G/IACCM-Dublin-Present-CmA/Form/Dublin-FoodIndustry-CommonTerms.md]
