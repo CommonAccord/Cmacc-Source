@@ -62,20 +62,6 @@ Sign.sec=<table><tr><td>{P1.US.Frame.Sign.Sec}<td/><td>          </td><t
 
 Sign.=[G/Z/ol/Base]
 
-_P1=<a href="#" class="definedterm">Restaurant</a>
-
-_P2=<a href="#" class="definedterm">Food Supplier</a>
-
-_Annex=<a href="#" class="definedterm">Annex</a>
-
-_PO=<a href="#" class="definedterm">PO</a>
-
-_Order=<a href="#" class="definedterm">Order</a>
-
-P1.Handle={_P1}
-
-P2.Handle={_P2}
-
 Model.Root={Doc}<hr><hr>{MSA.Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}

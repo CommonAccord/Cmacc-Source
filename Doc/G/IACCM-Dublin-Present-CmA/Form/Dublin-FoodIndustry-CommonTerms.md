@@ -14,6 +14,10 @@ P1.Handle={_P1}
 
 P2.Handle={_P2}
 
+MSA._P1={_P1}
+
+MSA._P2={_P2}
+
 Payment.DueAfter.Days={Payment Due Within}
 
 ShowMe1={Order.Doc}
