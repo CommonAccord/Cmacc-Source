@@ -19,7 +19,6 @@ span :hover {
 .sec-ti {
 	color: #0F0F8F;
             font-weight: bold;
-	    text-transform: lowercase;
 }
 
 .token {
@@ -77,3 +76,8 @@ span :hover {
 	color: red ;
        
 }
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;

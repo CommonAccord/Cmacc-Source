@@ -58,7 +58,7 @@ Deal.sec=<ol class="secs-and">{Deal.PO.LI}{Deal.Pay.LI}{Deal.Delivery.LI}</ol>
 
 Deal.=[G/Z/ol/Base]
 
-Def.sec=Terms parameterised in {_this_Agreement} are to be defined in the terms annexed to this MSA (the "{_Annex}").
+Def.sec=Terms parameterised in {_this_Agreement} are to be defined in the terms annexed to {_this_Agreement} (the "{_Annex}").
 
 Relate.sec=To be specified in the {_Annex}.
 

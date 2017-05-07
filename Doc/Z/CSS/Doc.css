@@ -24,6 +24,14 @@ span :hover {
 
 }  
 
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;
+
+}
+
 .token {
 	color: maroon ;
         text-decoration: none;

@@ -47,4 +47,8 @@ PersonalData.Comply.sec=<i>{PersonalData.Comply.Law.sec}</i>
 
 _=[G/Agt-MasterService-CmA/Sec/_/MSA_Annex/0.md]
 
+Def.=[G/Agt-MasterService-CmA/Sec/Def/MSA_Annex/0.md]
+
+Def.Secrecy_and_Inventions_Agreement.Sec=&emsp; &emsp;
+
 =[G/Agt-MasterService-CmA/Form/0.md]

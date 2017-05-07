@@ -4,8 +4,8 @@ P1.=[G/U/id/acme_ie.md]
 
 P2.=[G/U/id/quake_ie.md]
 
-_P1=<a href="#MSA.Among.Sec" class="definedterm">Acme</a>
+_P1=<a href="#MSA.Annex.Def.Company.Sec" class="definedterm">Acme</a>
 
-_P2=<a href="#MSA.Among.Sec" class="definedterm">Quake</a>
+_P2=<a href="#MSA.Annex.Def.Supplier.Sec" class="definedterm">Quake</a>
 
 =[G/IACCM-Dublin-Present-CmA/Form/Dublin-FoodIndustry-CommonTerms.md]
