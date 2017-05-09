@@ -1,6 +1,6 @@
 Doc.Ti=Common Food Supply Purchase Order ("{_PO}")
 
-0.sec={Parties.Sec}
+0.sec=Order Date:  <span class="dealpoint">{Order Date}</span><br> {Parties.Sec}
 
 Parties.Ti=Parties:
 
@@ -54,18 +54,12 @@ Terms.2.sec=<b>This {_PO} has no effect unless the parties have a master agreeme
 
 Terms.=[G/Z/ol/s2]
 
-00.sec={Sign.Sec}
-
-Sign.Ti=Signatures:
-
-Sign.sec=<table><tr><td>{P1.US.Frame.Sign.Sec}<td/><td>          </td><td>{P2.US.Frame.Sign.Sec}</td></tr></table>
-
 Sign.=[G/Z/ol/Base]
 
-Model.Root={Doc}<hr><hr>{MSA.Doc}
+Model.Root={Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
 
-MSA.Doc=</i>
+Head.Message=<i>Order Number: <b>{Order Number}</b><br>(MSA Number: {MSA Document Number})</i>
 
 =[G/Z/ol/Base]

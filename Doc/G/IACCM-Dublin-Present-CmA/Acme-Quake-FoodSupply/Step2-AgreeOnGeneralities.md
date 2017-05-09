@@ -1,6 +1,4 @@
-Doc.GUID=Acme-Quake-0001
-
-MSA Document Number=<span class="highlight">Acme-Quake-0002</a>
+MSA Document Number=<span class="highlight">Acme-Quake-MSA-0001</a>
 
 MSA Effective Date=<span class="highlight">2017-04-30</a>
 
@@ -16,7 +14,7 @@ Client Reception Hours=from 14:00 to 17:00 on Tuesdays through Saturdays
 
 Term.End.YMD=<span class="highlight">2017-12-31</a>
 
-MSA.Annex.Assure.Insurance.=[G/Agt-MasterService-CmA/Sec/Assure/Cover/10MM-Euro.md]
+MSA.Annex.Assure.Insurance.=[G/IACCM-Dublin-Present-CmA/Sec/Assure/Cover/10MM-Euro.md]
 
 Dispute.Forum.cl=courts of Dublin, Ireland
 

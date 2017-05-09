@@ -1,6 +1,6 @@
 body { 
     background-color: #ffffff;
-    font-size: 120%;
+    font-size: 100%;
     font: arial, sans-serif;
 }
 
@@ -41,7 +41,12 @@ span :hover {
 	color: olive ;
 	outline: 2px dotted olive;
         background-color: #aaf0ff;
-	margin: 1cm 2cm 1cm 2cm;
+	margin: 10px 10px 10px 10px;
+
+.dealpoint {
+	color: #008800;
+        text-transform : underline;
+        font-weight: bold;
 }
 
 .secs-and li{
@@ -52,7 +57,7 @@ span :hover {
 	color: teal ;
 	outline: 2px dashed teal;
         background-color: #f0f0aa;
-	margin: 1cm 2cm 1cm 2cm;
+	margin: 10px 10px 10px 10px;
 
 }
 
