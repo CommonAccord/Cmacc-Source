@@ -1,5 +1,7 @@
 Order Number=Acme-Quake-Order-001
 
+MSA Effective Date=Today Hooray
+
 Order Date=2017-05-08
  
 Order Item 1=Broccoli - 200 kilos - 1.50 Euro / kilo - 300 Euros

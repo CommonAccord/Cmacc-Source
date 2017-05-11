@@ -60,6 +60,6 @@ Model.Root={Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
 
-Head.Message=<i>Order Number: <b>{Order Number}</b><br>(MSA Number: {MSA Document Number})</i>
+Head.Message=<font color="grey">Order Number: <b>{Order Number}</b><br>(MSA Number: {MSA Document Number})</font>
 
 =[G/Z/ol/Base]
