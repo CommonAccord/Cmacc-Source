@@ -1,8 +1,8 @@
 //=Acme and Quake decide to add one another as trusted partners.  They create a relationship page that lists the two of them and gives each of them a handle.  They give the page an ID for their reference.
 
-P1.=[G/U/id/acme_ie.md]
+P1.=[G/U/id/acme_incorporated.md]
 
-P2.=[G/U/id/quake_ie.md]
+P2.=[G/U/id/quake_incorporated.md]
 
 _P1=<a href="#Def.P1.Sec" class="definedterm">Acme</a>
 
