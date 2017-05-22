@@ -10,7 +10,7 @@ DEFINE('SOURCE_TAB_MESSAGE', 'Source');	// Tab
 
 DEFINE('EDIT_TAB_MESSAGE', 'Edit');	// Tab
 
-DEFINE('COMPLETE_TAB_MESSAGE', 'Open Completions');	// Tab
+DEFINE('COMPLETE_TAB_MESSAGE', 'Opens');	// Tab
 
 DEFINE('IPLD_TAB_MESSAGE', 'IPLD');	// Tab
 
