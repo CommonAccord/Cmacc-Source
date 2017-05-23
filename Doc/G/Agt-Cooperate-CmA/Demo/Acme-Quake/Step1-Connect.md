@@ -24,4 +24,4 @@ Law.=[G/U/at/US/MA/Suffolk/Boston/Geo]
 
 //=They select dispute resolution in US Courts.  (And hope that things never degenerate that far.)
 
-Relate.Dispute.Tribunal.Forum.cl={Relate.Dispute.Tribunal.Forum.USCourt.cl}
+Relate.Dispute.Tribunal.=[G/Agt-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
