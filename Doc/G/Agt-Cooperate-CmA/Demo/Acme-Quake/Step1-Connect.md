@@ -12,7 +12,7 @@ Doc.GUID=Acme-Quake-D0001
 
 //=They "transclude" a Cooperation Agreement form.  (The form could be further developed in a collaboration convened by the IACCM.)
 
-=[G/Agt-Cooperate-CmA/Form/0.md]  
+=[G/Agt-Cooperate-CmA/Form/-Cooperate/0.md]  
 
 //=They click on "Opens" and complete the form.
 
