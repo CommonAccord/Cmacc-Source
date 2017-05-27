@@ -18,7 +18,7 @@ Cure.TimeSpan=fifteen days
 
 EffectiveDate.YMD=2017-05-25
 
-//=The NDA was mutual, but from now on, the confidentiality engagement is one-way, protecting Acme's information.
+//=The NDA was mutual, but now the confidentiality engagement is one-way, protecting Acme's information.
 
 Relate.Conf.Intro.=[G/Agt-Cooperate-CmA/Sec/Relate/Conf/Intro/-P1-to-P2/0.md]
 
@@ -28,11 +28,11 @@ Relate.Life.End.YMD=2017-12-31
 
 Misc.Entire.Past.sec=The {_parties} terminate their {NDA.Doc.Ti} dated {NDA.EffectiveDate.YMD}, and replace it with the terms of this {Doc.Ti}, including the terms of {Relate.Conf.Xref}.  The {Cooperate.Doc.Ti} dated {Cooperate.EffectiveDate.YMD} continues and is not replaced.  In the event of any conflict, the terms of this {Doc.Ti} have priority over the terms of the {Cooperate.Doc.Ti}.
  
-//=They "transclude" a Cooperation Agreement form.  (The form could be further developed in a collaboration convened by the IACCM.)
+//=They reference the Consulting Agreement form.
 
 =[G/Agt-Cooperate-CmA/Form/-Consult/0.md]
 
-//=They reference the two prior agreements:
+//=They reference the two prior agreements because they make reference to them:
 
 Cooperate.=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/2-Cooperate/0.md]
 
