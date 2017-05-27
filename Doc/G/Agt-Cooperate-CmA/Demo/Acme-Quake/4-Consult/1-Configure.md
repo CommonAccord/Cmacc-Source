@@ -1,6 +1,6 @@
 //=Acme and Quake decide that Quake will do some consulting for Acme.  They already have a relationship page from their Cooperation Agreement.
 
-=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/1-Connect/0.md]
+=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/1-Connect.md]
 
 //=They click on "Opens" and complete the form.
 
@@ -34,6 +34,6 @@ Misc.Entire.Past.sec=The {_parties} terminate their {NDA.Doc.Ti} dated {NDA.Effe
 
 //=They reference the two prior agreements because they make reference to them:
 
-Cooperate.=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/2-Cooperate/0.md]
+Cooperate.=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/2-Cooperate.md]
 
-NDA.=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/3-NDA/0.md]
+NDA.=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/3-NDA.md]

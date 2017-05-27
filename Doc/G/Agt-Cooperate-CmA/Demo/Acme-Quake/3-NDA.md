@@ -1,6 +1,6 @@
 //=This presents the record of a completed NDA.  We build our agreement from the base of a Mutual NDA (see the bottom), making choices about various issues and filling in dates.  
 
-=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/1-Connect/0.md]
+=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/1-Connect.md]
 
 Purpose.cl=discuss a possible collaboration between {_P1} and {_P2} in food delivery
 
