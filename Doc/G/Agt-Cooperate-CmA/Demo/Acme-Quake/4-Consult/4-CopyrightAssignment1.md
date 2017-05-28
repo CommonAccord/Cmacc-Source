@@ -1,3 +1,5 @@
+//=The parties sign a Copyright Assignment.
+
 MessageToUser=Getting the copyright assignment!
 
 TitleOfWork.sec=Topology of Acme IT Systems

@@ -1,3 +1,5 @@
+//=The parties create the first SOW under the Consulting Agreement.
+
 MessageToUser=Our first SOW!
 
 GUID=Acme-Quake-SOW-0001

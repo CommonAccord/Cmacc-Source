@@ -1,4 +1,6 @@
-MessageToUser=Getting the copyright assignment!
+//=The parties sign a patent assignment.  We don't show a schedule of patents, which should be completed as part of the assignment.
+
+MessageToUser=The Patent Assignment.
 
 TitleOfWork.sec=Topology of Acme IT Systems
 
