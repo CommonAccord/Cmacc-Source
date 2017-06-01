@@ -28,7 +28,7 @@ Relate.Life.Term.End.YMD=2017-12-31
 
 Relate.Life.Terminate.TimeSpan=30 days
 
-Relate.Assign.=[G/Agt-Cooperate-CmA/Sec/Relate/Assign/-P1/0.md]
+Relate.Assign.=[G/Agt-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
 
 Relate.Dispute.Cost.=[G/Agt-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
