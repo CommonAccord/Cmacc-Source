@@ -1,4 +1,24 @@
-//=Open parameters as of Datestamp:Timestamp (2017/06/07:1496857511):
+//=Participants:
+
+Company.=[G/U/id/acme_incorporated.md]
+
+Founder.1.=[G/U/id/abigail_altima.md]
+
+Founder.2.=[G/U/id/alicia_applegate.md]
+
+
+Seed.1.=[G/U/id/quake_incorporated.md]
+
+Seed.2.=[G/U/id/state_street_corporation.md]
+
+SeriesA.1.=[G/U/id/barbara_oreilly.md]
+
+SeriesA.2.=[G/U/id/geraldine_graber.md]
+
+SeriesA.3.=[G/U/id/quentin_quade.md]
+
+
+//=Parameters:
 
 RoundA.Price.Total.$=1,000,000 Euros
 
@@ -18,31 +38,11 @@ Expense.$=10,000 Euros
 
 Law.Forum.cl=Paris, France
 
-//=Prior existing parameters:
-
-Company.=[G/U/id/acme_incorporated.md]
-
-Founder.1.=[G/U/id/abigail_altima.md]
-
-Founder.2.=[G/U/id/alicia_applegate.md]
-
-
-Seed.1.=[G/U/id/quake_incorporated.md]
-
-Seed.2.=[G/U/id/state_street_corporation.md]
-
-SeriesA.1.=[G/U/id/barbara_oreilly.md]
-
-SeriesA.2.=[G/U/id/geraldine_graber.md]
-
-SeriesA.3.=[G/U/id/quentin_quade.md]
-
-//=Configuration (to be improved)
+//=Configuration (to be improved with widgets)
 
 Among.Founder.secs={Among.Founder.1.sec}<li>{Among.Founder.2.sec}
 
 By.Founder.secs={By.Founder.1.sec}<li>{By.Founder.2.sec}
-
 
 Among.Seed.secs={Among.Seed.1.sec}<li>{Among.Seed.2.sec}
 
@@ -54,5 +54,6 @@ CapitalContribution.SeriesA.secs={CapitalContribution.SeriesA.1.sec}<li>{Capital
 
 By.SeriesA.secs={By.SeriesA.1.sec}<li>{By.SeriesA.2.sec}<li>{By.SeriesA.3.sec}
 
+//=The Form of Agreement:
 
 =[G/GalionProject-TermSheet-CmA/Form/0.md]
