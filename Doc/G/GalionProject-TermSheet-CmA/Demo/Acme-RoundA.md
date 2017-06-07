@@ -1,27 +1,52 @@
+//=Open parameters as of Datestamp:Timestamp (2017/06/07:1496857511):
+
+RoundA.Price.Total.$=1,000,000 Euros
+
+RoundA.Valuation.$=6,000,000 Euros
+
+RoundA.Price.PerShare.$=One Euro
+
+RoundA.Price.P1.$=500,000 Euros
+
+RoundA.Price.P2.$=300,000 Euros
+
+RoundA.Price.P3.$=200,000 Euros
+
+InitialBoardMember.Name.Full=Eleanore Ellenbow
+
+Expense.$=10,000 Euros
+
+Law.Forum.cl=Paris, France
+
+//=Prior existing parameters:
+
 Company.=[G/U/id/acme_incorporated.md]
 
 Founder.1.=[G/U/id/abigail_altima.md]
 
 Founder.2.=[G/U/id/alicia_applegate.md]
 
-Among.Founder.secs={Among.Founder.1.sec}<li>{Among.Founder.2.sec}
-
-By.Founder.secs={By.Founder.1.sec}<li>{By.Founder.2.sec}
-
 
 Seed.1.=[G/U/id/quake_incorporated.md]
 
 Seed.2.=[G/U/id/state_street_corporation.md]
-
-Among.Seed.secs={Among.Seed.1.sec}<li>{Among.Seed.2.sec}
-
-By.Seed.secs={By.Seed.1.sec}<li>{By.Seed.2.sec}
 
 SeriesA.1.=[G/U/id/barbara_oreilly.md]
 
 SeriesA.2.=[G/U/id/geraldine_graber.md]
 
 SeriesA.3.=[G/U/id/quentin_quade.md]
+
+//=Configuration (to be improved)
+
+Among.Founder.secs={Among.Founder.1.sec}<li>{Among.Founder.2.sec}
+
+By.Founder.secs={By.Founder.1.sec}<li>{By.Founder.2.sec}
+
+
+Among.Seed.secs={Among.Seed.1.sec}<li>{Among.Seed.2.sec}
+
+By.Seed.secs={By.Seed.1.sec}<li>{By.Seed.2.sec}
 
 Among.SeriesA.secs={Among.SeriesA.1.sec}<li>{Among.SeriesA.2.sec}<li>{Among.SeriesA.3.sec}
 
