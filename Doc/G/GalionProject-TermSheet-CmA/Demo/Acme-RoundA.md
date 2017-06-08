@@ -6,17 +6,19 @@ Founder.1.=[G/U/id/abigail_altima.md]
 
 Founder.2.=[G/U/id/alicia_applegate.md]
 
+Seed.1.=[G/U/id/barbara_oreilly.md]
 
-Seed.1.=[G/U/id/quake_incorporated.md]
+Seed.2.=[G/U/id/geraldine_graber.md]
 
-Seed.2.=[G/U/id/state_street_corporation.md]
+SeriesA.1.=[G/U/id/quake_incorporated.md]
 
-SeriesA.1.=[G/U/id/barbara_oreilly.md]
-
-SeriesA.2.=[G/U/id/geraldine_graber.md]
+SeriesA.2.=[G/U/id/state_street_corporation.md]
 
 SeriesA.3.=[G/U/id/quentin_quade.md]
 
+//=The Form of Agreement:
+
+=[G/GalionProject-TermSheet-CmA/Form/-DefaultValues/0.md]  
 
 //=Parameters:
 
@@ -36,7 +38,9 @@ InitialBoardMember.Name.Full=Eleanore Ellenbow
 
 Expense.$=10,000 Euros
 
-Law.Forum.cl=Paris, France
+Law.State=France
+
+Law.Forum.cl=the commercial courts of Paris, France
 
 //=Configuration (to be improved with widgets)
 
@@ -50,10 +54,6 @@ By.Seed.secs={By.Seed.1.sec}<li>{By.Seed.2.sec}
 
 Among.SeriesA.secs={Among.SeriesA.1.sec}<li>{Among.SeriesA.2.sec}<li>{Among.SeriesA.3.sec}
 
-CapitalContribution.SeriesA.secs={CapitalContribution.SeriesA.1.sec}<li>{CapitalContribution.SeriesA.2.sec}<li>{CapitalContribution.SeriesA.3.sec}
+Investor.secs={Investor.1.sec}<li>{Investor.2.sec}<li>{Investor.3.sec}
 
 By.SeriesA.secs={By.SeriesA.1.sec}<li>{By.SeriesA.2.sec}<li>{By.SeriesA.3.sec}
-
-//=The Form of Agreement:
-
-=[G/GalionProject-TermSheet-CmA/Form/-DefaultValues/0.md]
