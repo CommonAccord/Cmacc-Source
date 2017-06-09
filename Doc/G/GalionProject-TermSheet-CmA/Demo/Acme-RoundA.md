@@ -14,8 +14,6 @@ SeriesA.1.=[G/U/id/quake_incorporated.md]
 
 SeriesA.2.=[G/U/id/state_street_corporation.md]
 
-SeriesA.3.=[G/U/id/quentin_quade.md]
-
 //=The Form of Agreement:
 
 =[G/GalionProject-TermSheet-CmA/Form/-DefaultValues/0.md]  
@@ -28,15 +26,13 @@ RoundA.Valuation.$=6,000,000 Euros
 
 RoundA.Price.PerShare.$=One Euro
 
-RoundA.Price.P1.$=500,000 Euros
+RoundA.Price.P1.$=600,000 Euros
 
-RoundA.Price.P2.$=300,000 Euros
-
-RoundA.Price.P3.$=200,000 Euros
+RoundA.Price.P2.$=400,000 Euros
 
 InitialBoardMember.Name.Full=Eleanore Ellenbow
 
-Expense.$=10,000 Euros
+Expense.$=20,000 Euros
 
 Law.State=France
 
@@ -52,8 +48,8 @@ Among.Seed.secs={Among.Seed.1.sec}<li>{Among.Seed.2.sec}
 
 By.Seed.secs={By.Seed.1.sec}<li>{By.Seed.2.sec}
 
-Among.SeriesA.secs={Among.SeriesA.1.sec}<li>{Among.SeriesA.2.sec}<li>{Among.SeriesA.3.sec}
+Among.SeriesA.secs={Among.SeriesA.1.sec}<li>{Among.SeriesA.2.sec}
 
-Investor.secs={Investor.1.sec}<li>{Investor.2.sec}<li>{Investor.3.sec}
+Investor.SeriesA.secs={Investor.SeriesA.1.sec}<li>{Investor.SeriesA.2.sec}
 
-By.SeriesA.secs={By.SeriesA.1.sec}<li>{By.SeriesA.2.sec}<li>{By.SeriesA.3.sec}
+By.SeriesA.secs={By.SeriesA.1.sec}<li>{By.SeriesA.2.sec}

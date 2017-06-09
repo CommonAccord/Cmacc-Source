@@ -8,3 +8,16 @@ Name.Last=O'Reilly
 
 Adr.Type=mailing
 
+Birth.Adr.=[G/U/at/IE/Dublin/Geo]
+
+Birth.YMD=1959-06-15
+
+Citizen.=[G/U/at/IE/Geo]
+
+US.Citizen.nationality=Ireland
+
+FR.Citizen.nationality=Eireland
+
+US.Work.profession=investor
+
+FR.Work.profession=investisseur

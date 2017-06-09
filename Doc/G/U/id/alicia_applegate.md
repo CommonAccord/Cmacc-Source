@@ -16,9 +16,9 @@ Birth.YMD=1978-03-25
 
 Citizen.=[G/U/at/US/Geo]
 
-US.Citizen.nationality=American
+US.Citizen.nationality=United States
 
-FR.Citizen.nationality=américain
+FR.Citizen.nationality=Etats Unis
 
 PL.Citizen.nationality=Stany Zjednoczone Ameryki
 
