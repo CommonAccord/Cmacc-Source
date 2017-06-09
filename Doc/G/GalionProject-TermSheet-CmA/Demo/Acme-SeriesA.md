@@ -20,15 +20,15 @@ SeriesA.2.=[G/U/id/state_street_corporation.md]
 
 //=Parameters:
 
-RoundA.Price.Total.$=1,000,000 Euros
+SeriesA.Price.Total.$=1,000,000 Euros
 
-RoundA.Valuation.$=6,000,000 Euros
+SeriesA.Valuation.$=6,000,000 Euros
 
-RoundA.Price.PerShare.$=One Euro
+SeriesA.Price.PerShare.$=One Euro
 
-RoundA.Price.P1.$=600,000 Euros
+SeriesA.Price.P1.$=600,000 Euros
 
-RoundA.Price.P2.$=400,000 Euros
+SeriesA.Price.P2.$=400,000 Euros
 
 InitialBoardMember.Name.Full=Eleanore Ellenbow
 
