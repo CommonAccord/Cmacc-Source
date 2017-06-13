@@ -1,6 +1,6 @@
-Manufacturer.=[G/U/id/quake_incorporated.md]
+P1.=[G/U/id/quake_incorporated.md]
 
-Customer.=[G/U/id/acme_sarl.md]
+P2.=[G/U/id/acme_sarl.md]
 
 =[G/Agt-Supply-EquipmentSoftwareSupport-CmA/Sec/0.md]
 
