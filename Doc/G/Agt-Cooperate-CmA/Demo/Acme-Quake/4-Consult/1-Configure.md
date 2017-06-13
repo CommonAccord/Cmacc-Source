@@ -12,6 +12,8 @@ Relate.Life.Term.End.YMD=2017-12-31
 
 Renew.TimeSpan=three-month periods
 
+Relate.Conf.Life.End.YMD=2020-12-31
+
 NonRenew.Notice.TimeSpan=one-month
 
 Stop.ByClientWithoutCause.TimeSpan=one-month
