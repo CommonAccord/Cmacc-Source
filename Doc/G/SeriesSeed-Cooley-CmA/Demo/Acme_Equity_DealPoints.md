@@ -94,4 +94,4 @@ KeyHolder.3.Handle=Key Holder 3
 
 Sign.YMD=________________________  
 
-xSignature.YMD=________________________
+xSignature=________________________
