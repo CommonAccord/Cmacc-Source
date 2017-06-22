@@ -8,6 +8,8 @@ Name.Last=O'Reilly
 
 Adr.Type=mailing
 
+Email=barbara0reilly@mildmail.com
+
 Birth.Adr.=[G/U/at/IE/Dublin/Geo]
 
 Birth.YMD=1959-06-15
