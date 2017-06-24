@@ -1,6 +1,6 @@
 Name.Given=Acme
 
-Name.Inc=Inc.
+Name.Inc=Incorporated
 
 Email=info@acme.com
 
